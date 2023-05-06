@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">199593585005-3kkp1d7knivgqveg6q1ctem2luorjs2g.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">199593585005</string>
+    <string name="google_api_key" translatable="false">AIzaSyCFra3yWLgB0sr-wA15PaQN3IA0J2keVZ0</string>
+    <string name="google_app_id" translatable="false">1:199593585005:android:533b493fa21063a11c9264</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCFra3yWLgB0sr-wA15PaQN3IA0J2keVZ0</string>
+    <string name="google_storage_bucket" translatable="false">helasaviya-e9871.appspot.com</string>
+    <string name="project_id" translatable="false">helasaviya-e9871</string>
+</resources>

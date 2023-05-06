@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heading">36sp</dimen>
+    <dimen name="heading_30">30sp</dimen>
+    <dimen name="text_24sp">24sp</dimen>
+    <dimen name="btn_14sp">14sp</dimen>
+    <dimen name="text_20sp">20sp</dimen>
+    <dimen name="large_icon_width">162dp</dimen>
+    <dimen name="large_icon_height">152dp</dimen>
+    <dimen name="medium_icon_width">50dp</dimen>
+    <dimen name="medium_icon_height">50dp</dimen>
+    <dimen name="white_card_width">376dp</dimen>
+    <dimen name="form_text">20sp</dimen>
+    <dimen name="form_answer_text">16sp</dimen>
+    <dimen name="sub_heading">26sp</dimen>
+    <dimen name="description">18sp</dimen>
+    <dimen name="form_text2">18sp</dimen>
+    <dimen name="header_companyname">30sp</dimen>
+    <dimen name="plain_text_large">20sp</dimen>
+    <dimen name="btn_medium_text">14sp</dimen>
+    <dimen name="btn_medium_width">156dp</dimen>
+    <dimen name="btn_medium_height">51dp</dimen>
+    <dimen name="btn_type2_width">211dp</dimen>
+    <dimen name="btn_type2_height">46dp</dimen>
+    <dimen name="btn_type3_width">318dp</dimen>
+    <dimen name="btn_type3_height">64dp</dimen>
+    <dimen name="btn_large_width">350dp</dimen>
+    <dimen name="btn_large_height">63dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

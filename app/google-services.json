@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199593585005",
+    "project_id": "helasaviya-e9871",
+    "storage_bucket": "helasaviya-e9871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199593585005:android:533b493fa21063a11c9264",
+        "android_client_info": {
+          "package_name": "com.example.helasaviya_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199593585005-3kkp1d7knivgqveg6q1ctem2luorjs2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFra3yWLgB0sr-wA15PaQN3IA0J2keVZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199593585005-3kkp1d7knivgqveg6q1ctem2luorjs2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
