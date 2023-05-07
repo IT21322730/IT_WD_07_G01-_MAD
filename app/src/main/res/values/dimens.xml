@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_text_width">188dp</dimen>
+    <dimen name="header_text_height">46dp</dimen>
+    <dimen name="header_footer_icon_height">36dp</dimen>
+    <dimen name="header_footer_icon_width">36dp</dimen>
+    <dimen name="header_width">411dp</dimen>
+    <dimen name="header_height">58dp</dimen>
+    <dimen name="footer_width">417dp</dimen>
+    <dimen name="footer_height">53dp</dimen>
+    <dimen name="credit_card_width">369dp</dimen>
+    <dimen name="credit_card_height">198dp</dimen>
+    <dimen name="other_icon_width">60dp</dimen>
+    <dimen name="other_icon_height">60dp</dimen>
+    <dimen name="home_icon_width">200dp</dimen>
+    <dimen name="home_icon_height">150dp</dimen>
+</resources>

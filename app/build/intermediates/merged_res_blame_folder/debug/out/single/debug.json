@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\layout_update_dialog.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\layout\\update_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\drawable_wrong.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\drawable\\wrong.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\drawable_credit_card_pic.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\drawable\\credit_card_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.helasaviya.app-merged_res-32:/layout_activity_fetching.xml.flat",
+        "source": "com.example.helasaviya.app-main-34:/layout/activity_fetching.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\layout_credit_list_item.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\layout\\credit_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\drawable_unselected_home.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\drawable\\unselected_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\drawable_rectangle.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\drawable_tick.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\drawable\\tick.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\drawable_paypal_logo_icon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\drawable\\paypal_logo_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\layout_activity_creadit_details.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\layout\\activity_creadit_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\layout_activity_credit_debit.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\layout\\activity_credit_debit.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\layout_activity_pay_palpaymentgateway.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\layout\\activity_pay_palpaymentgateway.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\drawable_rate1.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\drawable\\rate1.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\color_divider_grey.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\color\\divider_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\drawable_unselected_user.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\drawable\\unselected_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\drawable_unselected_cart.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\drawable\\unselected_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\drawable_unselected_search.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\drawable\\unselected_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\drawable_update_icon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\drawable\\update_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\layout_activity_fetching.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\layout\\activity_fetching.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\drawable_text_area_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\drawable\\text_area_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\drawable_update.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\drawable\\update.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\drawable_delete.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-merged_res-32:\\drawable_menu.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.helasaviya.app-main-34:\\drawable\\menu.xml"
+    }
+]

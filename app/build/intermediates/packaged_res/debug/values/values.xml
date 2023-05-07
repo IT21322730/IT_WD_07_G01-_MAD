@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="activity_background">#E6DBDB</color>
+    <color name="black">#FF000000</color>
+    <color name="btn_success">#FF4CAF50</color>
+    <color name="cancel_btn">#FFED3434</color>
+    <color name="paypal_cancel">#169BD7</color>
+    <color name="paypal_login">#253B80</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_white">#ffffff</color>
+    <color name="theme_color">#CC9900</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="credit_card_height">198dp</dimen>
+    <dimen name="credit_card_width">369dp</dimen>
+    <dimen name="footer_height">53dp</dimen>
+    <dimen name="footer_width">417dp</dimen>
+    <dimen name="header_footer_icon_height">36dp</dimen>
+    <dimen name="header_footer_icon_width">36dp</dimen>
+    <dimen name="header_height">58dp</dimen>
+    <dimen name="header_text_height">46dp</dimen>
+    <dimen name="header_text_width">188dp</dimen>
+    <dimen name="header_width">411dp</dimen>
+    <dimen name="home_icon_height">150dp</dimen>
+    <dimen name="home_icon_width">200dp</dimen>
+    <dimen name="other_icon_height">60dp</dimen>
+    <dimen name="other_icon_width">60dp</dimen>
+    <string name="amount">Amount :</string>
+    <string name="app_name">Helasaviya</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_try">Try Again</string>
+    <string name="cancel">Cancel</string>
+    <string name="card_number">Card Number</string>
+    <string name="card_update">Card successfully updated.</string>
+    <string name="cardholder">Cardholder Name</string>
+    <string name="credit_or_debit">Credit/Debit Card</string>
+    <string name="cvv">CVV</string>
+    <string name="default_web_client_id" translatable="false">502724884426-hg72s9a8osmef521akd5ljnu1h0keoe7.apps.googleusercontent.com</string>
+    <string name="delete">Delete</string>
+    <string name="exp_date">Expire Date</string>
+    <string name="firebase_database_url" translatable="false">https://mad-project-caa19-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">502724884426</string>
+    <string name="google_api_key" translatable="false">AIzaSyDjUDOEE9znBSLzY8kEQIqbzLNG7LV_Y08</string>
+    <string name="google_app_id" translatable="false">1:502724884426:android:7419a2198825bcfd4e4133</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDjUDOEE9znBSLzY8kEQIqbzLNG7LV_Y08</string>
+    <string name="google_storage_bucket" translatable="false">mad-project-caa19.appspot.com</string>
+    <string name="header">Helasaviya</string>
+    <string name="income">Company Income :</string>
+    <string name="login">Log In</string>
+    <string name="month">mm</string>
+    <string name="no">No</string>
+    <string name="no_of_transactions">Number of Transactions :</string>
+    <string name="ok_and_save_card">Ok and Save my Card</string>
+    <string name="password">Password</string>
+    <string name="pay">Pay</string>
+    <string name="payment_method">Choose payment method</string>
+    <string name="payment_report">Monthly Payments Summery</string>
+    <string name="paypal">PayPal</string>
+    <string name="paypal_gateway">Paypal payment gateway</string>
+    <string name="project_id" translatable="false">mad-project-caa19</string>
+    <string name="successful_card_saving">Card saving successfully completed.</string>
+    <string name="successful_payment">Your payment is successfully completed.</string>
+    <string name="total_amount">Total amount of Transactions :</string>
+    <string name="unsuccessful_payment">Your payment is unsuccessful.</string>
+    <string name="update">Update</string>
+    <string name="username">username</string>
+    <string name="year">yy</string>
+    <string name="yes">Yes</string>
+    <style name="Theme.Helasaviya" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
